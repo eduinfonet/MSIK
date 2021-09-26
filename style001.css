@@ -1,0 +1,14 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.name-highlite {
+  color: orange;
+  font-style: italic;
+  font-size: 25px;
+}
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
